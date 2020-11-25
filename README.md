@@ -14,3 +14,6 @@ law](https://en.wikipedia.org/wiki/Zipf%27s_law) on the two most common words.
 We use this example in two [CodeRefinery](https://coderefinery.org/) lessons:
 - https://coderefinery.github.io/reproducible-research/
 - https://coderefinery.github.io/documentation/
+
+### Documentation
+[![Documentation Status](https://readthedocs.org/projects/sigsid-word-count/badge/?version=latest)](https://sigsid-word-count.readthedocs.io/en/latest/?badge=latest)
