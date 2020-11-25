@@ -3,6 +3,7 @@
    in this index.rst for them to be rendered and added to the
    table of contents
 
+   test-content
 
 word-count
 ==========
